@@ -281,7 +281,7 @@ export default function EnchantingDateProposalApp() {
           ))}
         </motion.div>
         <Slider
-          defaultValue={[25]}
+          defaultValue={[75]}
           max={1000}
           step={25}
           onValueChange={(value) =>
