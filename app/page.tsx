@@ -230,13 +230,14 @@ export default function EnchantingDateProposalApp() {
       <div className="grid grid-cols-2 gap-6 mb-6">
         {[
           "Love and Monsters",
-          "La La Land",
+          "Moana 2",
           "Ice Cream",
           "Scott Pilgrim Vs. The World",
           "Anyone But You",
           "The Last Summer",
           "Love at First Sight",
           "Through My Window",
+          "Your Name",
           "Something else",
         ].map((movie) => (
           <motion.button
