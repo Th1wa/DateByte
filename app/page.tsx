@@ -188,9 +188,10 @@ export default function EnchantingDateProposalApp() {
         {[
           { name: "Lasagna", icon: <Utensils /> },
           { name: "Kottu Paratha", icon: <Utensils /> },
-          { name: "Chicken Shawarma", icon: <Utensils /> },
-          { name: "Snack Platter", icon: <Coffee /> },
-          { name: "Mix rice", icon: <Utensils /> },
+          { name: "Mixed Fried Rice", icon: <Utensils /> },
+          { name: "Coffee N Croissant", icon: <Coffee /> },
+          { name: "Buriyani", icon: <Utensils /> },
+          { name: "Pasta", icon: <Utensils /> },
         ].map(({ name, icon }) => (
           <motion.button
             key={name}
