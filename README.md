@@ -151,18 +151,3 @@ If you find this project helpful:
 - 🐛 Report issues on GitHub
 - 💡 Submit feature requests
 
-<p>
-  <a href="https://www.buymeacoffee.com/neo_3xd">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="neo_3xd" />
-  </a>
-</p>
-
-<br><br>
-
----
-
-<div align="center">
-
-**Made with ❤️ by [Neo](https://github.com/tharushkadinujaya05)**
-
-</div>
