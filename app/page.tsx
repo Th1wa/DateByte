@@ -182,12 +182,12 @@ export default function EnchantingDateProposalApp() {
     // Step 2: Food Selection
     <motion.div key="step2" className="text-center" {...fadeInUp}>
       <h2 className="text-3xl font-bold mb-6 text-pink-600">
-        What shall we feast on, my dear?
+        What shall we feast on, My dear?
       </h2>
       <div className="grid grid-cols-2 gap-6 mb-6">
         {[
           { name: "Lasagna", icon: <Utensils /> },
-          { name: "Chicken Pie", icon: <Utensils /> },
+          { name: "Kottu Paratha", icon: <Utensils /> },
           { name: "Chicken Shawarma", icon: <Utensils /> },
           { name: "Snack Platter", icon: <Coffee /> },
           { name: "Mix rice", icon: <Utensils /> },
