@@ -281,7 +281,7 @@ export default function EnchantingDateProposalApp() {
           ))}
         </motion.div>
         <Slider
-          defaultValue={[50]}
+          defaultValue={[25]}
           max={100}
           step={25}
           onValueChange={(value) =>
@@ -308,7 +308,7 @@ export default function EnchantingDateProposalApp() {
         }}
         className="bg-pink-500 hover:bg-pink-600 text-white font-bold py-2 px-6 rounded-full transition-all duration-300 transform hover:scale-105"
       >
-        Let&apos;s make it official!
+        Click Here Babe!
       </Button>
     </motion.div>,
 
