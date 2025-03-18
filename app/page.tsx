@@ -229,14 +229,14 @@ export default function EnchantingDateProposalApp() {
       </h2>
       <div className="grid grid-cols-2 gap-6 mb-6">
         {[
-          "The Notebook",
+          "Love and Monsters",
           "La La Land",
-          "Titanic",
-          "Pride and Prejudice",
+          "Ice Cream",
+          "Scott Pilgrim Vs. The World",
           "Anyone But You",
-          "Past Lives",
+          "The Last Summer",
           "Love at First Sight",
-          "Through My Window 3",
+          "Through My Window",
           "Something else",
         ].map((movie) => (
           <motion.button
